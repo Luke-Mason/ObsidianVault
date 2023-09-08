@@ -112,6 +112,18 @@
             }
           },
           {
+            "id": "fbccb8c6955685ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objections to Christianity/Problem of Humans Authors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "302bf8a61d94d9fd",
             "type": "leaf",
             "state": {
@@ -186,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -252,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biblical Slavery.md",
+                "file": "Objections to Christianity/Problem of Humans Authors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biblical Slavery.md",
+                "file": "Objections to Christianity/Problem of Humans Authors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -292,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biblical Slavery.md"
+                "file": "Objections to Christianity/Problem of Humans Authors.md"
               }
             }
           }
@@ -314,15 +326,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e5d43d7a76aaa23e",
+  "active": "0fae36486a40b889",
   "lastOpenFiles": [
+    "Objections to Adventism",
+    "Objections to Christianity/Problem of Bible Inconsistencies.md",
+    "Objections to Christianity/Problem of Animal Suffering.md",
+    "Biblical Slavery.md",
     "God's Slaves.md",
     "Sabbath.md",
-    "Biblical Slavery.md",
     "2023-09-09.md",
     "Objections to Christianity/Problem of Divine Hiddeness.md",
-    "Objections to Christianity/Problem of Bible Inconsistencies.md",
-    "Objections to Christianity/Problem of Humans Authoring the Bible.md",
+    "Objections to Christianity/Problem of Humans Authors.md",
     "Objections to Christianity",
     "Objections to Christianity/Problem of the Unevangelised.md",
     "Objections to Christianity/Problem of Evil.md",
