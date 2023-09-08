@@ -1,4 +1,4 @@
-
+#slavery
 
 There are 5 main things that people think of when they think of slavery:
 1. Being kidnapped and taken against your will
