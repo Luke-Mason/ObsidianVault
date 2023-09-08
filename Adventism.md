@@ -1,3 +1,7 @@
 1. [Ellen White]
 2. [Annihilationism]
 3. [Sabbath and the Biblical Law]
+4. [Eschatology]
+5. [Spirit of Prophecy]
+6. [Heavenly Sanctuary]
+7. [Pre-Advent Judgment], [[the investigative judgement](https://en.wikipedia.org/wiki/Investigative_Judgement)]
