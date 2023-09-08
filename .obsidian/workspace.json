@@ -52,72 +52,24 @@
             }
           },
           {
-            "id": "f742989384ed03a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objections to Christianity/Problem of Evil.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c503e74219b9145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objections to Christianity/Problem of Divine Hiddeness.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e2290609e74d5cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objections to Christianity/Problem of the Unevangelised.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e21f5e9d819e4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Objections to Christianity/Problem of Bible Inconsistencies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e5d43d7a76aaa23e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biblical Slavery.md",
+                "file": "Objections to Christianity.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fbccb8c6955685ff",
+            "id": "0c167ec96242d4d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objections to Christianity/Problem of Humans Authors.md",
+                "file": "Objections to Adventism.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -276,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objections to Christianity.md",
+                "file": "Objections to Adventism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objections to Christianity.md",
+                "file": "Objections to Adventism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -316,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objections to Christianity.md"
+                "file": "Objections to Adventism.md"
               }
             }
           }
@@ -338,14 +290,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2881e9aba5d7ebf5",
+  "active": "0c167ec96242d4d6",
   "lastOpenFiles": [
-    "Objections to Christianity/Problem of Humans Authors.md",
     "Objections to Christianity.md",
+    "Objections to Adventism.md",
+    "Biblical Slavery.md",
+    "Objections to Christianity/Problem of Humans Authors.md",
     "Objections to Adventism",
     "Objections to Christianity/Problem of Bible Inconsistencies.md",
     "Objections to Christianity/Problem of Animal Suffering.md",
-    "Biblical Slavery.md",
     "God's Slaves.md",
     "Sabbath.md",
     "2023-09-09.md",
