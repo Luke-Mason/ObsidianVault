@@ -1,0 +1,2 @@
+This is connected to the idea that God endorses slavery as we are also effectively kept as slaves for God's enjoyment as unless we love him he will kill us.
+God gives you a choice, to pay your debt or for you to pay for your debt. 

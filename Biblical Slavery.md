@@ -1,6 +1,13 @@
-God gives you a choice, to pay your debt or for you to pay for your debt. 
 
-Word Slave -  Ebed, root word Abad which means to serve - Ebed means worker or servant, there is no hebrew word for slave. It is a word that denotes dependancy. The word is used positive ways like a wordof honor. [Dueteronomy 34:4], [Joshua 1:1], [Joshua 24:29],[Exodus 4:23], [Exodus 7:16], [Exodus 8:1],[Exodus 8:20],[Exodus 9:1],[Exodus 9:13],[Exodus 10:3],[Exodus 10:7],[Exodus 10:8],[Exodus 10:11],[Exodus 10:24],[Exodus 10:26], etc.
+
+There are 5 main things that people think of when they think of slavery:
+1. Being kidnapped and taken against your will
+2. Stripped of all your rights
+3. The slaver can beat and abuse you as much as hhe/she wishes since you're their property.
+4. There's no compensation or benefit for you; only the  slaver benefits
+5. You are forced to stay for life against your will
+
+Word Slave - Morally neutral word Ebed, root word Abad which means to serve - Ebed means worker or servant, there is no hebrew word for slave. It is a word that denotes dependancy. The word is used positive ways like a wordof honor. [Dueteronomy 34:4], [Joshua 1:1], [Joshua 24:29],[Exodus 4:23], [Exodus 7:16], [Exodus 8:1],[Exodus 8:20],[Exodus 9:1],[Exodus 9:13],[Exodus 10:3],[Exodus 10:7],[Exodus 10:8],[Exodus 10:11],[Exodus 10:24],[Exodus 10:26], etc.
 
 Categories of slaves in the bible:
 1. The Hebrew - Servant who **voluntarily** work to pay off debt or to acquire land
@@ -16,3 +23,12 @@ People say that the proper treatment of a theft is not mentioned except to just 
 There is also a point to be made, but is a side note, that on what moral grounds is the person assuming that slavery is bad. First one must justify their moral grounding before stating that it is bad. Either under [subjective morality] or [objective morality]. [Subjective morality] doesn't ground anything in this particular case as the person is accusing another person outside their own mind as doing something wrong, so only an objective grounding must be made before the next step of accusing slavery as wrong can be made.
 
 
+TODO https://www.youtube.com/watch?v=8UaA6NemMsg 11min
+
+You can become poor or pay your debt and voluntarily subject yourself to becoming a slave/servant.
+[Leviticus 25:39] If any of your fellow israelites become poor **and sell themselves**... 
+
+If you called someone gay back in the day, the word has changed, this also is the case for the slave word.
+
+
+Supposed problematic passage [Leviticus 25:42-46]
