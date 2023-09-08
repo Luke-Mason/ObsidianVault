@@ -81,6 +81,42 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Problem of Divine Hiddeness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e2290609e74d5cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem of the Unevangelised.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e21f5e9d819e4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem of Bible Inconsistencies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5d43d7a76aaa23e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Untitled.md",
                 "mode": "source",
                 "source": false
@@ -162,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -290,10 +326,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "4c503e74219b9145",
+  "active": "e5d43d7a76aaa23e",
   "lastOpenFiles": [
-    "Problem of Evil.md",
+    "Problem of Bible Inconsistencies.md",
     "Untitled.md",
+    "Problem of the Unevangelised.md",
+    "Problem of Divine Hiddeness.md",
+    "Problem of Evil.md",
     "Biblical Slavery.md",
     "God's Slaves.md",
     "Sabbath.md",
