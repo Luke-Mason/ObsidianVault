@@ -3,11 +3,11 @@
 There are 5 main things that people think of when they think of slavery:
 1. Being kidnapped and taken against your will
 2. Stripped of all your rights
-3. The slaver can beat and abuse you as much as hhe/she wishes since you're their property.
+3. The slaver can beat and abuse you as much as he/she wishes since you're their property.
 4. There's no compensation or benefit for you; only the  slaver benefits
 5. You are forced to stay for life against your will
 
-Word Slave - Morally neutral word Ebed, root word Abad which means to serve - Ebed means worker or servant, there is no hebrew word for slave. It is a word that denotes dependancy. The word is used positive ways like a wordof honor. [Dueteronomy 34:4], [Joshua 1:1], [Joshua 24:29],[Exodus 4:23], [Exodus 7:16], [Exodus 8:1],[Exodus 8:20],[Exodus 9:1],[Exodus 9:13],[Exodus 10:3],[Exodus 10:7],[Exodus 10:8],[Exodus 10:11],[Exodus 10:24],[Exodus 10:26], etc.
+Word Slave - Morally neutral word Ebed, root word Abad which means to serve - Ebed means worker or servant, there is no Hebrew word for slave. It is a word that denotes dependency. The word is used positive ways like a word of honour. [Deuteronomy 34:4], [Joshua 1:1], [Joshua 24:29],[Exodus 4:23], [Exodus 7:16], [Exodus 8:1],[Exodus 8:20],[Exodus 9:1],[Exodus 9:13],[Exodus 10:3],[Exodus 10:7],[Exodus 10:8],[Exodus 10:11],[Exodus 10:24],[Exodus 10:26], etc.
 
 Categories of slaves in the bible:
 1. The Hebrew - Servant who **voluntarily** work to pay off debt or to acquire land
