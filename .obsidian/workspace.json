@@ -64,6 +64,30 @@
             }
           },
           {
+            "id": "f742989384ed03a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Problem of Evil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c503e74219b9145",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "302bf8a61d94d9fd",
             "type": "leaf",
             "state": {
@@ -138,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biblical Slavery.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biblical Slavery.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biblical Slavery.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -266,14 +290,16 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6d296c5213e8c2f5",
+  "active": "4c503e74219b9145",
   "lastOpenFiles": [
+    "Problem of Evil.md",
+    "Untitled.md",
+    "Biblical Slavery.md",
     "God's Slaves.md",
     "Sabbath.md",
     "2023-09-09.md",
     "Bible/NIV",
     "Bible",
-    "Biblical Slavery.md",
     "Untitled.canvas"
   ]
 }
