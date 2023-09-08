@@ -4,4 +4,5 @@
 4. [Eschatology]
 5. [Spirit of Prophecy]
 6. [Heavenly Sanctuary]
-7. [Pre-Advent Judgment], [[the investigative judgement](https://en.wikipedia.org/wiki/Investigative_Judgement)]
+7. [Pre-Advent Judgment], or the [Investigative Judgment]
+8. [State of the Dead]
