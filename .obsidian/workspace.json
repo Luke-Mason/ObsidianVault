@@ -79,8 +79,12 @@
             "id": "77046afd42ff2173",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Objections to Christianity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -236,12 +240,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Objections to Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -252,6 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Objections to Christianity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,10 +279,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Objections to Christianity.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
