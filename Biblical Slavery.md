@@ -23,12 +23,14 @@ People say that the proper treatment of a theft is not mentioned except to just 
 There is also a point to be made, but is a side note, that on what moral grounds is the person assuming that slavery is bad. First one must justify their moral grounding before stating that it is bad. Either under [subjective morality] or [objective morality]. [Subjective morality] doesn't ground anything in this particular case as the person is accusing another person outside their own mind as doing something wrong, so only an objective grounding must be made before the next step of accusing slavery as wrong can be made.
 
 
-[Leviticus 25:39] If any of your fellow israelites become poor **and sell themselves**... 
+[Leviticus 25:39] If any of your fellow Israelites become poor **and sell themselves**... 
 You can become poor or pay your debt and voluntarily subject yourself to becoming a slave/servant.
 
 Sport players can be bought and sold but it is for their work not for their souls. 
 
-Supposed problematic passage [Leviticus 25:42-46]. Looking at the Hebrew, the people are called the 'toshab (sojourners)' and also the 'ger (aliens)', which are people that comes from another land and want refuge in Israel for one reason or another, economic, political, or religious reasons, or exiled from their nation. 
+Supposed problematic passage [Leviticus 25:42-46]. 
+Who are the people in
+Looking at the Hebrew, the people are called the 'toshab (sojourners)' and also the 'ger (aliens)', which are people that comes from another land and want refuge in Israel for one reason or another, economic, political, or religious reasons, or exiled from their nation. Another word for them is simply foreigners.
 What about where it says people will be your property? The word property is assumed here to mean that it is a person that doesn't have any rights, the owner can do with them what they please, hold them against their will and can abuse them. This is not the case, let's see what the bible says about how they should treat their 'property'.  "When a foreigner resides among you in your land **do not mistreat them**. The foreigner residing among you **must be treated as your native-born**.** Love them as yourself**, for you were foreigners in Egypt. I am the Lord your God." [Leviticus 19:33-34]. So a few chapters before the 'problematic passage' we read that they must love them as themselves, to not mistreat them, and treat them as if they are your native-born, and to remember they they them too were foreigners. What about another book in the bible because that might have been a fluke. "Do not oppress a foreigner; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt." [Exodus 23:9]
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
