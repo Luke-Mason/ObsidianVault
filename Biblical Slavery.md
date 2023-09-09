@@ -28,7 +28,8 @@ You can become poor or pay your debt and voluntarily subject yourself to becomin
 
 Sport players can be bought and sold but it is for their work not for their souls. 
 
-Supposed problematic passage [Leviticus 25:42-46]. 
+#### Supposed problematic passage [Leviticus 25:42-46]. 
+
 **Who are the people it is talking about?**
 Looking at the Hebrew, the people are called the 'toshab (sojourners)' and also the 'ger (aliens)', which are people that comes from another land and want refuge in Israel for one reason or another, economic, political, or religious reasons, or exiled from their nation. Another word for them is simply foreigners.
 **What about where it says people will be your property? **
@@ -39,18 +40,13 @@ The word property is assumed here to mean that it is a person that doesn't have 
 So a few chapters before the 'problematic passage' we read that they must love them as themselves, to not mistreat them, and treat them as if they are your native-born, and to remember they them too were foreigners. What about another book in the bible because that might have been a fluke. 
 
 2. "**Do not oppress a foreigner**; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt." [Exodus 23:9] 
+3. "**Do not oppress a foreigner**; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt" [Exodus 23:9]. 
+4. "**Do not mistreat or oppress a foreigner**, for you were foreigners in Egypt" [Exodus 22:21]
 
-"**Do not oppress a foreigner**; you yourselves know how it feels to be foreigners, because you were foreigners in Egypt" [Exodus 23:9]. 
+What about another book because maybe exodus is poo poo. 
 
-"**Do not mistreat or oppress a foreigner**, for you were foreigners in Egypt" [Exodus 22:21]
-
-what about another book because maybe exodus is poo poo. 
-
-"**Cursed is anyone who withholds justice from the foreigner**, the fatherless or the widow" [Deuteronomy 27:19], 
-
-or 
-
-"For the LORD your God is God of gods and Lord of lords, the great God, mighty and awesome, **who show no partiality** and accepts no bribes. He defends the cause of the fatherless and the widow, **and loves the foreigner residing among you**, giving them food and clothing. **And you are to love those who are foreigners**, for you yourselves were foreigners in Egypt" [Deuteronomy 10:19]. 
+5. "**Cursed is anyone who withholds justice from the foreigner**, the fatherless or the widow" [Deuteronomy 27:19], 
+6. "For the LORD your God is God of gods and Lord of lords, the great God, mighty and awesome, **who show no partiality** and accepts no bribes. He defends the cause of the fatherless and the widow, **and loves the foreigner residing among you**, giving them food and clothing. **And you are to love those who are foreigners**, for you yourselves were foreigners in Egypt" [Deuteronomy 10:19]. 
 
 So where are the verses that say you should treat a foreigner as a piece of furniture?
 
