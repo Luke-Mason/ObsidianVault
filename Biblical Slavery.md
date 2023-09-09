@@ -51,7 +51,9 @@ What about another book because maybe exodus is poo poo.
 So where are the verses that say you should treat a foreigner as a piece of furniture?
 What is interesting is that they problematic passage ends at verse 46, but if we pick up from the next verse we read
 
-7. "If a foreigner residing among you becomes rich and any of your fellow Israelites become poor and sell themselves to the foreigner or to a member of the foreigner's clan, ..." [Leviticus 25:47] 
+7. "**If a foreigner residing among you becomes rich** and any of your **fellow Israelites become poor and sell themselves to the foreigner** or to a member of the foreigner's clan, ..." [Leviticus 25:47] 
+This shows that servants/foreigners could become rich and also own other servants who could be isrea
+
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
