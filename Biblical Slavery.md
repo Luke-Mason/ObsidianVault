@@ -49,6 +49,7 @@ What about another book because maybe exodus is poo poo.
 6. "For the LORD your God is God of gods and Lord of lords, the great God, mighty and awesome, **who show no partiality** and accepts no bribes. He defends the cause of the fatherless and the widow, **and loves the foreigner residing among you**, giving them food and clothing. **And you are to love those who are foreigners**, for you yourselves were foreigners in Egypt" [Deuteronomy 10:19]. 
 
 So where are the verses that say you should treat a foreigner as a piece of furniture?
+What is interesting is that they problematic passage ends at verse 46, but if we pick up from the next verse [Leviticus 25:47] we read
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
