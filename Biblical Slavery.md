@@ -28,7 +28,7 @@ You can become poor or pay your debt and voluntarily subject yourself to becomin
 
 Sport players can be bought and sold but it is for their work not for their souls. 
 
-Supposed problematic passage [Leviticus 25:42-46]. Looking at the Hebrew, the 
+Supposed problematic passage [Leviticus 25:42-46]. Looking at the Hebrew, the people are called the 'toshab (sojourners)' and also the 'ger (aliens)', which are people that comes from another land and want refuge in isreal for one reason or another, economic, politcal, or religious reasons, or exile
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
