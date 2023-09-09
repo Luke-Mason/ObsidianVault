@@ -54,6 +54,12 @@ What is interesting is that they problematic passage ends at verse 46, but if we
 7. "**If a foreigner residing among you becomes rich** and any of your **fellow Israelites become poor and sell themselves to the foreigner** or to a member of the foreigner's clan, ..." [Leviticus 25:47] 
 This shows that servants/foreigners could become rich and also own other servants who could be israelites themselves.
 
+These verses address some of our misconceptions of what slavery is:
+1. Being kidnapped and taken against your will
+2. Stripped of all your rights
+3. The slaver can beat and abuse you as much as he/she wishes since you're their property.
+4. There's no compensation or benefit for you; only the  slaver benefits
+5. You are forced to stay for life against your will
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
