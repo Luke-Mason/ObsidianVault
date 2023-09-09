@@ -22,8 +22,11 @@ People say that the proper treatment of a theft is not mentioned except to just 
 
 There is also a point to be made, but is a side note, that on what moral grounds is the person assuming that slavery is bad. First one must justify their moral grounding before stating that it is bad. Either under [subjective morality] or [objective morality]. [Subjective morality] doesn't ground anything in this particular case as the person is accusing another person outside their own mind as doing something wrong, so only an objective grounding must be made before the next step of accusing slavery as wrong can be made.
 
-You can become poor or pay your debt and voluntarily subject yourself to becoming a slave/servant.
+
 [Leviticus 25:39] If any of your fellow israelites become poor **and sell themselves**... 
+You can become poor or pay your debt and voluntarily subject yourself to becoming a slave/servant.
+
+Sport players can be bought and sold but it is for their work not for their souls. 
 
 If you called someone gay back in the day, the word has changed, this also is the case for the slave word.
 
