@@ -28,6 +28,8 @@ You can become poor or pay your debt and voluntarily subject yourself to becomin
 
 Sport players can be bought and sold but it is for their work not for their souls. 
 
+What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context, 
+
 If you called someone gay back in the day, the word has changed, this also is the case for the slave word.
 
 
