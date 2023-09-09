@@ -35,7 +35,7 @@ Looking at the Hebrew, the people are called the 'toshab (sojourners)' and also 
 **What about where it says people will be your property? **
 The word property is assumed here to mean that it is a person that doesn't have any rights, the owner can do with them what they please, hold them against their will and can abuse them. Yes they are their property, but it does not follow what was just mentioned. Let's see what the bible says about how they should treat their 'property'.  
 
-1. "When a foreigner resides among you in your land **do not mistreat them**. The foreigner residing among you **must be treated as your native-born**.** Love them as yourself**, for you were foreigners in Egypt. I am the Lord your God." [Leviticus 19:33-34]. 
+1. "When a foreigner resides among you in your land **do not mistreat them**. The foreigner residing among you **must be treated as your native-born**. ** Love them as yourself**, for you were foreigners in Egypt. I am the Lord your God." [Leviticus 19:33-34]. 
 
 So a few chapters before the 'problematic passage' we read that they must love them as themselves, to not mistreat them, and treat them as if they are your native-born, and to remember they them too were foreigners. What about another book in the bible because that might have been a fluke. 
 
@@ -56,9 +56,9 @@ This shows that servants/foreigners could become rich and also own other servant
 
 These verses address some of our misconceptions of what slavery is:
 1. Being kidnapped and taken against your will
-2. Stripped of all your rights
-3. The slaver can beat and abuse you as much as he/she wishes since you're their property.
-4. There's no compensation or benefit for you; only the  slaver benefits
+2. --Stripped of all your rights--
+3. --The slaver can beat and abuse you as much as he/she wishes since you're their property--.
+4. --There's no compensation or benefit for you; only the  slaver benefits--
 5. You are forced to stay for life against your will
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
