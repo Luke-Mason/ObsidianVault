@@ -63,10 +63,6 @@ These verses address some of our misconceptions of what slavery is:
 
 So what is the proper understanding of 'property' here? In Hebrew the word is 'achuzzah', and is not in reference to a person's value but is reference to the value of their labour output, referring back to the example of sporting players being bought and sold for different teams.
 
-Let's read more verses showing that it is not based on the person as an object but is based on the person for their labour output. 
-
-We can see here that someone can only be kept until jubilee
-
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
