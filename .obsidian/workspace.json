@@ -79,8 +79,12 @@
             "id": "77046afd42ff2173",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Biblical Slavery.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -236,6 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biblical Slavery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,6 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biblical Slavery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +279,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Biblical Slavery.md"
+              }
             }
           }
         ],
