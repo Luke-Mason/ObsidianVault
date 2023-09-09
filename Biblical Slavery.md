@@ -56,10 +56,12 @@ This shows that servants/foreigners could become rich and also own other servant
 
 These verses address some of our misconceptions of what slavery is:
 1. Being kidnapped and taken against your will
-2. --Stripped of all your rights--
-3. --The slaver can beat and abuse you as much as he/she wishes since you're their property--.
-4. --There's no compensation or benefit for you; only the  slaver benefits--
+2. ~~Stripped of all your rights~~
+3. ~~The slaver can beat and abuse you as much as he/she wishes since you're their property~~.
+4. ~~There's no compensation or benefit for you; only the  slaver benefits~~
 5. You are forced to stay for life against your will
+
+So what is the proper understanding of 'property' here? In Hebrew the word is 'achuzzah'
 
 What about where it says that God must keep the foreigners as slaves for their whole lives? Consider the context in [Leviticus 25:46 (NIV)] "you **can** bequeath them to your children as inherited property and **can** make them slaves for life...," and [Leviticus 25 (ESV)] "You **may** bequeath them to your sons after you to inherit as a possession forever. You **may** make slaves of them...". Nothing says you must or shall.
 
