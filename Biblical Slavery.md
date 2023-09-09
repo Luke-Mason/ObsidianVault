@@ -19,6 +19,7 @@ What are the regulations? On theft, divorce, murder the bible says to just not d
 People think the only proper treatment of slaves is there release, however again this is assuming it is the American slave trade type of slavery and is not understanding how biblical slavery pays off the debtors, pays for large expensive things like land, and can even gain a wife with the father's approval from the work done (though not as common).
 
 People say that the proper treatment of a theft is not mentioned except to just not do it.
+If you called someone gay back in the day, the word has changed, this also is the case for the slave word.
 
 There is also a point to be made, but is a side note, that on what moral grounds is the person assuming that slavery is bad. First one must justify their moral grounding before stating that it is bad. Either under [subjective morality] or [objective morality]. [Subjective morality] doesn't ground anything in this particular case as the person is accusing another person outside their own mind as doing something wrong, so only an objective grounding must be made before the next step of accusing slavery as wrong can be made.
 
