@@ -127,11 +127,14 @@
             "id": "118e69be8504d90b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Objections to Adventism.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -288,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Objections to Adventism.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +308,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Objections to Adventism.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Objections to Adventism.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -365,6 +368,8 @@
   },
   "active": "118e69be8504d90b",
   "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Objections to Adventism.md",
     "Untitled.canvas",
     "2024-09-07.md",
     "Luke Mason/Welcome.md",
@@ -372,7 +377,6 @@
     "2024-07-27.md",
     "Adventism.md",
     "Biblical Slavery.md",
-    "Objections to Adventism.md",
     "Objections to Christianity.md",
     "God's Slaves.md",
     "2024-06-15.md",
