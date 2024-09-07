@@ -1,2 +1,2 @@
-1. [Problems of Ellen White Authority]
+1. [Ellen White Authority]
 2. 

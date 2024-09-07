@@ -127,8 +127,12 @@
             "id": "118e69be8504d90b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Objections to Adventism.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -284,6 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Objections to Adventism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,6 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Objections to Adventism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -321,7 +327,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Objections to Adventism.md"
+              }
             }
           },
           {
