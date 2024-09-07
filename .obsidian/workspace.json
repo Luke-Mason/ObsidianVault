@@ -271,7 +271,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -366,7 +367,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "118e69be8504d90b",
+  "active": "12cec91d2a27eb05",
   "lastOpenFiles": [
     "Untitled 1.canvas",
     "Objections to Adventism.md",
